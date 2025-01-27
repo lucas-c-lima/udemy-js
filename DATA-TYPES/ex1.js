@@ -1,0 +1,5 @@
+console.log("Exercicio 1 - Strings")
+console.log("Usando aspas duplas")
+console.log('Usando aspas simples')
+console.log(`Usando aspas duplas`)
+console.log("--------------------------------------------")

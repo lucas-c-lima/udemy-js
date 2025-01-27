@@ -1,0 +1,5 @@
+console.log("Exercicio 3 - Boolean")
+console.log(2 > 1)
+console.log(2 <= 1)
+console.log("abc" != "AbC")
+console.log("--------------------------------------------")
